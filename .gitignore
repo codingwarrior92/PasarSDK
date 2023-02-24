@@ -1,0 +1,12 @@
+node_modules
+./.env
+.vscode
+package-lock.json
+
+dist/
+dist.esm/
+typings/
+
+browser-bundle-stats.html
+samples/build
+

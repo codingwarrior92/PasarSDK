@@ -1,0 +1,41 @@
+{
+    "ipfsUrl": "https://ipfs-test.pasarprotocol.io",
+    "assistUrl": "https://assist-new.pasarprotocol.io",
+    "didResolver": "https://api.trinity-tech.io/eid",
+    "appDid": "did:elastos:ic8pRXyAT3JqEXo4PzHQHv5rsoYyEyDwpB",
+
+    "contracts": {
+        "esc": {
+            "feedsNft": "0xed1978c53731997f4DAfBA47C9b07957Ef6F3961",
+            "pasarNft": "0x32496388d7c0CDdbF4e12BDc84D39B9E42ee4CB0",
+            "marketv1": "0x2652d10A5e525959F7120b56f2D7a9cD0f6ee087",
+            "marketv2": "0x19088c509C390F996802B90bdc4bFe6dc3F5AAA7",
+            "registry": "0x2b304ffC302b402785294629674A8C2b64cEF897",
+            "diaToken": "0x85946E4b6AB7C5c5C60A7b31415A52C0647E3272",
+
+            "chainType": 1
+        },
+
+        "eth": {
+            "feedsNft": "",
+            "pasarNft": "0x61EAE56bc110249648fB9eAe7eA4cfa185e0A498",
+            "marketv1": "",
+            "marketv2": "0xed1978c53731997f4DAfBA47C9b07957Ef6F3961",
+            "registry": "0xC1d40312232ec4b308E69713A98c3A2b21c8F5E0",
+            "diaToken": "0x0000000000000000000000000000000000000000",
+
+            "chainType": 2
+        },
+
+        "fsn": {
+            "feedsNft": "",
+            "pasarNft": "",
+            "marketv1": "",
+            "marketv2": "0xa18279eBDfA5747e79DBFc23fa999b4Eaf2A9780",
+            "registry": "0x020c7303664bc88ae92cE3D380BF361E03B78B81",
+            "diaToken": "0x0000000000000000000000000000000000000000",
+
+            "chainType": 3
+        }
+    }
+}

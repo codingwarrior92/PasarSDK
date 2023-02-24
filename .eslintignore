@@ -1,0 +1,7 @@
+.eslintrc.js
+rollup.*
+tests/
+dist/
+node_modules/
+src/browser/readable-stream
+*.json
